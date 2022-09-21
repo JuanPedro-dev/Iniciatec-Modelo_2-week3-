@@ -1,0 +1,50 @@
+*,*::after,*::before{
+    padding: 0;
+}
+
+body{
+    padding-inline: 20vw;
+    font-size: 1.3rem;
+    font-family: sans-serif;
+}
+
+// Utilities 
+.bold{
+    font-weight: bold;
+}
+.text-center{
+    text-align: center;
+}
+
+.p-0{
+    padding: 0;
+}
+.m-0{
+    margin: 0;
+}
+.mt-0{
+    margin-top: 0;
+}
+
+.mb-0{
+    margin-bottom: 0;
+}
+
+.text-indet{
+    text-indent: 2rem;
+}
+.lista-letras{
+    list-style: lower-latin;
+}
+.lista-circle{
+    list-style: circle;
+}
+
+.ml-4{
+    margin-left: 4rem;
+}
+
+.h3{
+    font-size: 1.8rem;
+}
+
